@@ -1,0 +1,46 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint-react"
+  ],
+  "jsRules": {
+  },
+  "rules": {
+    "semicolon": [
+      true,
+      "never",
+      "ignore-interfaces"
+    ],
+    "member-access": false,
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-operator",
+      "check-typecast",
+      "check-module"
+    ],
+    "ordered-imports": false,
+    "max-line-length": [
+      true,
+      100
+    ],
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "no-console": false,
+    "jsx-no-lambda": false,
+    "jsx-no-multiline-js": false,
+    "jsx-wrap-multiline": false
+  },
+  "rulesDirectory": [
+  ],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts",
+      "./src/serviceWorker.ts",
+      "**/**/.ts"
+    ]
+  }
+}

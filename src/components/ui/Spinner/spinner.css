@@ -1,0 +1,55 @@
+.app-spinner {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    position: relative;
+}
+
+.app-spinner div {
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    border-radius: 50%;
+    animation: app-spinner 1.2s cubic-bezier(.5, 0, .5, 1) infinite;
+    border: 8px solid rgb(190, 151, 232);
+    border-top-color: #fff;
+}
+
+.app-spinner div {
+    border-color: rgb(190, 151, 232) transparent transparent;
+}
+
+.app-spinner div:nth-child(1) {
+    animation-delay: -.45s;
+}
+
+.app-spinner div:nth-child(2) {
+    animation-delay: -.3s;
+}
+
+.app-spinner div:nth-child(3) {
+    animation-delay: -.15s;
+}
+
+@keyframes app-spinner {
+    0% {
+        -webkit-transform: rotate(
+                0deg
+        );
+        transform: rotate(
+                0deg
+        );
+    }
+    100% {
+        -webkit-transform: rotate(
+                1turn
+        );
+        transform: rotate(
+                1turn
+        );
+    }
+}
+

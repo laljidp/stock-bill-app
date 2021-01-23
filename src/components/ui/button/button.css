@@ -1,0 +1,70 @@
+.app-button {
+    height: 35px;
+    border-radius: 32px;
+    background: #fff;
+    padding: 5px 15px;
+    font-size: 15px;
+    border: none;
+}
+
+.app-button.full {
+    width: 100%;
+}
+
+.app-button:focus {
+    outline: none;
+}
+
+.app-button:hover {
+    cursor: pointer;
+}
+
+.app-button.primary {
+    background: #1976d2;
+    color: #fff;
+}
+
+.app-button.primary:hover {
+    background: #0a61b4;
+}
+
+.app-button.secondary {
+    color: #0071ea;
+    background: #e5f0fc;
+}
+
+.app-button.secondary:hover {
+    background: #aaccf3;
+}
+
+.app-button.danger {
+    color: #fff;
+    background: #dd7171;
+    outline: #dd7171;
+}
+
+.app-button.danger:hover {
+    background: #d43333;
+}
+
+.app-button.warning {
+    color: #0071ea;
+    background: #eef586;
+}
+
+.app-button.warning:hover {
+    background: #dfef70;
+}
+
+
+.app-button.outline {
+    color: #0071ea;
+    border: 1px solid #0071ea;;
+}
+
+.app-button.app-button-loading {
+    display: flex;
+    align-items: center;
+    opacity: .5;
+    pointer-events: none;
+}

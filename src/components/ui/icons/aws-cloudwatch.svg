@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="50px" viewBox="0 0 45 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>4646D605-3272-4836-8F0A-E9D976301B84</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Integrations_UI" transform="translate(-443.000000, -209.000000)" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(418.000000, 184.000000)">
+                <g id="aws-cloudwatch" transform="translate(25.000000, 25.000000)">
+                    <polyline id="Path" fill="#B7CA9D" points="44.1930316 34.4058288 22.1039389 31.1609209 0 34.4099719 22.0982421 42.5993204 44.1930316 34.4058288"></polyline>
+                    <polyline id="Path" fill="#4B612C" points="4.42292837 34.027426 8.15689429 35.1945708 8.49714611 34.8082271 8.49714611 8.68047814 8.15689429 8.23423209 4.42292837 9.66256469 4.42292837 34.027426"></polyline>
+                    <polyline id="Path" fill="#759C3E" points="21.376998 32.8725377 8.15689429 35.1945708 8.15689429 8.23492261 21.376998 11.2079398 21.376998 32.8725377"></polyline>
+                    <polyline id="Path" fill="#4B612C" points="15.4824072 37.4413377 10.3297759 35.8529779 10.3297759 2.57700616 15.4824072 0.000690516119 15.9333142 0.491820106 15.9333142 36.8920321 15.4824072 37.4413377"></polyline>
+                    <polyline id="Path" fill="#759C3E" points="33.139077 33.2991041 15.4824072 37.4413377 15.4824072 0 33.139077 6.8820289 33.139077 33.2991041"></polyline>
+                    <polyline id="Path" fill="#4B612C" points="22.0904738 42.2447404 0 34.4099719 0 38.9542585 22.0904738 49.9995817 22.0904738 42.2447404"></polyline>
+                    <polyline id="Path" fill="#759C3E" points="44.1930316 38.948907 22.0904738 49.9995817 22.0904738 42.2447404 44.1930316 34.4058288 44.1930316 38.948907"></polyline>
+                    <polyline id="Path" fill="#B7CA9D" points="37.9851191 26.8769589 32.6291308 26.8769589 17.3609563 27.9172214 22.0965158 28.7902065 37.9851191 26.8769589"></polyline>
+                    <polyline id="Path" fill="#4B612C" points="17.3609563 37.9621594 22.0944443 39.3822058 22.2306486 39.2356438 22.2266781 28.5587109 22.0904738 28.4278581 17.3609563 27.9172214 17.3609563 37.9621594"></polyline>
+                    <polyline id="Path" fill="#759C3E" points="37.9851191 26.8769589 22.0904738 28.4271676 22.0944443 39.3822058 37.9851191 34.5984828 37.9851191 26.8769589"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
